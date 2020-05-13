@@ -16,4 +16,4 @@
 •	creddebt : debt-to-credit ratio is a measurement of how much you owe your creditors as a percentage of your available credit (credit limits)
 •	othdebt : Any other debts
 
--> For Further details Please refer Loan Project Report.docx
+-> For Further details Please refer  Loan Project Report.docx
